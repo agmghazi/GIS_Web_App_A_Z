@@ -1,0 +1,8 @@
+node_modules/*
+release/*
+dist/*
+build/*
+.cache-loader/*
+.VSCodeCounter
+package-lock.json
+node_modules
